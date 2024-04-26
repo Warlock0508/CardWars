@@ -3,7 +3,7 @@ using UnityEngine;
 
 public class CWDeckInventoryController : MonoBehaviour
 {
-	private const int MAX_DECKS = 5;
+	private const int MAX_DECKS = 12;
 
 	private static CWDeckInventoryController g_deckController;
 
